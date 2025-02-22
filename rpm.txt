@@ -1,0 +1,473 @@
+python3 21st.py 
+libraries imported
+ente the table numbers :0
+the bot moving the table number  1
+entered 2 nd condition 1
+Empty DataFrame
+Columns: [a, b, x, y, z, w, Table, Direction]
+Index: []
+destinations [[3.055, 0.278, 0.0, 0.0, -0.717, 0.697, 1.0]]
+0.34549999237060547 0.7459999918937683 1.1080000400543213 0.34549999237060547
+Inside playing
+playing
+'map_navigation' object has no attribute 'no_obs_threshold'
+1
+Starting movement through coordinates
+5555
+0.7450000047683716 0.7450000047683716 1.100000023841858 1.284999966621399
+Inside playing
+playing
+enetered here 0
+enetered here 1
+1
+0.7450000047683716 0.7450000047683716 1.1030000448226929 1.284999966621399
+Inside playing
+playing
+enetered here 1
+enetered here 2
+2
+[INFO] [1737200527.608829]: Sending goal location...
+[INFO] [1737200527.614218]: Distance to Goal: 2.71 m, RPM: 135.38, Speed: 14.18 m/s
+0.359499990940094 0.7450000047683716 1.1019999980926514 0.359499990940094
+Inside playing
+playing
+enetered here 2
+enetered here 3
+3
+[INFO] [1737200527.714465]: Distance to Goal: 2.71 m, RPM: 135.38, Speed: 14.18 m/s
+0.7450000047683716 0.7450000047683716 1.1059999465942383 1.284999966621399
+Inside playing
+playing
+enetered here 3
+enetered here 4
+4
+[INFO] [1737200527.814430]: Distance to Goal: 2.71 m, RPM: 135.38, Speed: 14.18 m/s
+0.7459999918937683 0.7459999918937683 1.1109999418258667 1.284999966621399
+Inside playing
+playing
+enetered here 4
+enetered here 5
+5
+[INFO] [1737200527.914781]: Distance to Goal: 2.71 m, RPM: 135.38, Speed: 14.18 m/s
+[INFO] [1737200528.014621]: Distance to Goal: 2.71 m, RPM: 135.38, Speed: 14.18 m/s
+0.7440000176429749 0.7440000176429749 1.1009999513626099 1.2860000133514404
+Inside playing
+playing
+enetered here 5
+enetered here 6
+6
+[INFO] [1737200528.117673]: Distance to Goal: 2.70 m, RPM: 135.09, Speed: 14.15 m/s
+0.75 0.75 1.0989999771118164 1.2940000295639038
+Inside playing
+playing
+enetered here 6
+enetered here 7
+7
+[INFO] [1737200528.217989]: Distance to Goal: 2.69 m, RPM: 134.66, Speed: 14.10 m/s
+0.7549999952316284 0.7549999952316284 1.0829999446868896 1.3020000457763672
+Inside playing
+playing
+enetered here 7
+enetered here 8
+8
+[INFO] [1737200528.314470]: Distance to Goal: 2.68 m, RPM: 134.24, Speed: 14.06 m/s
+0.7730000019073486 0.7730000019073486 1.0570000410079956 1.3220000267028809
+Inside playing
+playing
+enetered here 8
+enetered here 9
+9
+[INFO] [1737200528.414469]: Distance to Goal: 2.67 m, RPM: 133.55, Speed: 13.99 m/s
+0.800000011920929 0.800000011920929 1.0779999494552612 1.3279999494552612
+Inside playing
+playing
+enetered here 9
+enetered here 10
+10
+[INFO] [1737200528.514515]: Distance to Goal: 2.66 m, RPM: 133.07, Speed: 13.94 m/s
+[INFO] [1737200528.614506]: Distance to Goal: 2.65 m, RPM: 132.67, Speed: 13.89 m/s
+0.8080000281333923 0.8080000281333923 1.0579999685287476 1.3370000123977661
+Inside playing
+playing
+enetered here 10
+enetered here 11
+11
+[INFO] [1737200528.726636]: Distance to Goal: 2.65 m, RPM: 132.40, Speed: 13.87 m/s
+0.8149999976158142 0.8149999976158142 1.0759999752044678 1.3459999561309814
+Inside playing
+playing
+enetered here 11
+enetered here 12
+12
+[INFO] [1737200528.819098]: Distance to Goal: 2.64 m, RPM: 132.18, Speed: 13.84 m/s
+0.847000002861023 0.847000002861023 1.1260000467300415 1.340000033378601
+Inside playing
+playing
+enetered here 12
+enetered here 13
+13
+[INFO] [1737200528.914396]: Distance to Goal: 2.64 m, RPM: 132.00, Speed: 13.82 m/s
+0.8389999866485596 0.8389999866485596 1.093000054359436 1.3559999465942383
+Inside playing
+playing
+enetered here 13
+enetered here 14
+14
+[INFO] [1737200529.014564]: Distance to Goal: 2.64 m, RPM: 131.77, Speed: 13.80 m/s
+0.8149999976158142 0.8149999976158142 1.0579999685287476 1.3739999532699585
+Inside playing
+playing
+enetered here 14
+enetered here 15
+15
+[INFO] [1737200529.115845]: Distance to Goal: 2.63 m, RPM: 131.57, Speed: 13.78 m/s
+[INFO] [1737200529.214904]: Distance to Goal: 2.63 m, RPM: 131.46, Speed: 13.77 m/s
+0.7940000295639038 0.7940000295639038 1.0529999732971191 1.3830000162124634
+Inside playing
+playing
+enetered here 15
+enetered here 16
+16
+[INFO] [1737200529.314477]: Distance to Goal: 2.63 m, RPM: 131.39, Speed: 13.76 m/s
+0.7860000133514404 0.7860000133514404 1.069000005722046 0.9815000295639038
+Inside playing
+playing
+enetered here 16
+enetered here 17
+17
+[INFO] [1737200529.414784]: Distance to Goal: 2.63 m, RPM: 131.35, Speed: 13.76 m/s
+0.7699999809265137 0.7699999809265137 1.0429999828338623 1.409999966621399
+Inside playing
+playing
+enetered here 17
+enetered here 18
+18
+[INFO] [1737200529.514795]: Distance to Goal: 2.63 m, RPM: 131.42, Speed: 13.76 m/s
+0.7540000081062317 0.7540000081062317 1.031999945640564 1.4210000038146973
+Inside playing
+playing
+enetered here 18
+enetered here 19
+19
+[INFO] [1737200529.616029]: Distance to Goal: 2.63 m, RPM: 131.59, Speed: 13.78 m/s
+[INFO] [1737200529.714869]: Distance to Goal: 2.64 m, RPM: 131.76, Speed: 13.80 m/s
+0.7480000257492065 0.7480000257492065 1.0779999494552612 1.4249999523162842
+Inside playing
+playing
+enetered here 19
+enetered here 20
+20
+no obstacle
+[INFO] [1737200529.814451]: Distance to Goal: 2.64 m, RPM: 132.05, Speed: 13.83 m/s
+0.7400000095367432 0.7400000095367432 1.062000036239624 1.534000039100647
+Inside playing
+playing
+enetered here 0
+enetered here 1
+1
+[INFO] [1737200529.914471]: Distance to Goal: 2.65 m, RPM: 132.53, Speed: 13.88 m/s
+0.7300000190734863 0.7300000190734863 1.0169999599456787 1.5390000343322754
+Inside playing
+playing
+enetered here 1
+enetered here 2
+2
+[INFO] [1737200530.014481]: Distance to Goal: 2.66 m, RPM: 132.91, Speed: 13.92 m/s
+0.7289999723434448 0.7289999723434448 1.0440000295639038 1.5379999876022339
+Inside playing
+playing
+enetered here 2
+enetered here 3
+3
+[INFO] [1737200530.115380]: Distance to Goal: 2.67 m, RPM: 133.28, Speed: 13.96 m/s
+0.7379999756813049 0.7379999756813049 1.1299999952316284 1.4509999752044678
+Inside playing
+playing
+[INFO] [1737200530.228287]: Distance to Goal: 2.67 m, RPM: 133.47, Speed: 13.98 m/s
+enetered here 3
+enetered here 4
+4
+[INFO] [1737200530.316384]: Distance to Goal: 2.68 m, RPM: 133.93, Speed: 14.02 m/s
+0.7319999933242798 0.7319999933242798 1.0609999895095825 2.369499921798706
+Inside playing
+playing
+enetered here 4
+enetered here 5
+5
+[INFO] [1737200530.415287]: Distance to Goal: 2.69 m, RPM: 134.63, Speed: 14.10 m/s
+0.7200000286102295 0.7200000286102295 1.0329999923706055 1.5609999895095825
+Inside playing
+playing
+enetered here 5
+enetered here 6
+6
+[INFO] [1737200530.515672]: Distance to Goal: 2.71 m, RPM: 135.46, Speed: 14.19 m/s
+0.7099999785423279 0.7099999785423279 1.0069999694824219 1.5839999914169312
+Inside playing
+playing
+enetered here 6
+enetered here 7
+7
+[INFO] [1737200530.617697]: Distance to Goal: 2.73 m, RPM: 136.48, Speed: 14.29 m/s
+0.6284999847412109 0.7020000219345093 1.034999966621399 0.6284999847412109
+Inside playing
+playing
+enetered here 7
+enetered here 8
+8
+[INFO] [1737200530.717019]: Distance to Goal: 2.74 m, RPM: 137.23, Speed: 14.37 m/s
+[INFO] [1737200530.816169]: Distance to Goal: 2.76 m, RPM: 138.09, Speed: 14.46 m/s
+min() arg is an empty sequence
+[INFO] [1737200530.914983]: Distance to Goal: 2.78 m, RPM: 139.02, Speed: 14.56 m/s
+0.6869999766349792 0.6869999766349792 1.0099999904632568 2.260499954223633
+Inside playing
+playing
+enetered here 8
+enetered here 9
+9
+[INFO] [1737200531.015205]: Distance to Goal: 2.80 m, RPM: 140.19, Speed: 14.68 m/s
+min() arg is an empty sequence
+[INFO] [1737200531.115925]: Distance to Goal: 2.82 m, RPM: 141.09, Speed: 14.78 m/s
+min() arg is an empty sequence
+[INFO] [1737200531.215507]: Distance to Goal: 2.84 m, RPM: 142.13, Speed: 14.88 m/s
+0.671999990940094 0.671999990940094 1.003999948501587 2.1714999675750732
+Inside playing
+playing
+enetered here 9
+enetered here 10
+10
+[INFO] [1737200531.319995]: Distance to Goal: 2.87 m, RPM: 143.26, Speed: 15.00 m/s
+0.6639999747276306 0.6639999747276306 1.0290000438690186 1.6269999742507935
+Inside playing
+[INFO] [1737200531.418693]: Distance to Goal: 2.89 m, RPM: 144.61, Speed: 15.14 m/s
+playing
+enetered here 10
+enetered here 11
+11
+[INFO] [1737200531.515855]: Distance to Goal: 2.91 m, RPM: 145.73, Speed: 15.26 m/s
+0.6639999747276306 0.6639999747276306 1.0740000009536743 1.6230000257492065
+Inside playing
+playing
+enetered here 11
+enetered here 12
+12
+[INFO] [1737200531.615293]: Distance to Goal: 2.94 m, RPM: 147.08, Speed: 15.40 m/s
+0.6610000133514404 0.6610000133514404 1.059999942779541 1.6449999809265137
+Inside playing
+playing
+enetered here 12
+enetered here 13
+13
+[INFO] [1737200531.715419]: Distance to Goal: 2.97 m, RPM: 148.62, Speed: 15.56 m/s
+min() arg is an empty sequence
+[INFO] [1737200531.818212]: Distance to Goal: 3.00 m, RPM: 150.23, Speed: 15.73 m/s
+min() arg is an empty sequence
+[INFO] [1737200531.915520]: Distance to Goal: 3.05 m, RPM: 152.41, Speed: 15.96 m/s
+[INFO] [1737200532.015166]: Distance to Goal: 3.09 m, RPM: 154.52, Speed: 16.18 m/s
+0.6399999856948853 0.6399999856948853 1.0119999647140503 1.6469999551773071
+Inside playing
+playing
+enetered here 13
+enetered here 14
+14
+[INFO] [1737200532.117520]: Distance to Goal: 3.13 m, RPM: 156.58, Speed: 16.40 m/s
+0.6340000033378601 0.6340000033378601 1.0190000534057617 1.1395000219345093
+Inside playing
+playing
+enetered here 14
+enetered here 15
+15
+[INFO] [1737200532.216925]: Distance to Goal: 3.17 m, RPM: 158.68, Speed: 16.62 m/s
+0.628000020980835 0.628000020980835 1.024999976158142 1.6519999504089355
+Inside playing
+playing
+enetered here 15
+enetered here 16
+16
+[INFO] [1737200532.316311]: Distance to Goal: 3.21 m, RPM: 160.69, Speed: 16.83 m/s
+0.625 0.625 1.069000005722046 1.6549999713897705
+Inside playing
+playing
+enetered here 16
+enetered here 17
+17
+[INFO] [1737200532.414875]: Distance to Goal: 3.24 m, RPM: 162.11, Speed: 16.98 m/s
+0.6269999742507935 0.6269999742507935 1.1519999504089355 1.6540000438690186
+Inside playing
+playing
+enetered here 17
+enetered here 18
+18
+[INFO] [1737200532.514493]: Distance to Goal: 3.28 m, RPM: 163.77, Speed: 17.15 m/s
+[INFO] [1737200532.614785]: Distance to Goal: 3.31 m, RPM: 165.65, Speed: 17.35 m/s
+min() arg is an empty sequence
+[INFO] [1737200532.714722]: Distance to Goal: 3.35 m, RPM: 167.56, Speed: 17.55 m/s
+min() arg is an empty sequence
+[INFO] [1737200532.814722]: Distance to Goal: 3.40 m, RPM: 169.84, Speed: 17.79 m/s
+min() arg is an empty sequence
+[INFO] [1737200532.914640]: Distance to Goal: 3.45 m, RPM: 172.38, Speed: 18.05 m/s
+0.6100000143051147 0.6100000143051147 1.100000023841858 1.6614999771118164
+Inside playing
+playing
+enetered here 18
+enetered here 19
+19
+[INFO] [1737200533.016216]: Distance to Goal: 3.48 m, RPM: 174.06, Speed: 18.23 m/s
+min() arg is an empty sequence
+[INFO] [1737200533.116951]: Distance to Goal: 3.51 m, RPM: 175.75, Speed: 18.40 m/s
+[INFO] [1737200533.214428]: Distance to Goal: 3.55 m, RPM: 177.70, Speed: 18.61 m/s
+0.609000027179718 0.609000027179718 1.1829999685287476 1.683500051498413
+Inside playing
+playing
+enetered here 19
+enetered here 20
+20
+no obstacle
+[INFO] [1737200533.314430]: Distance to Goal: 3.59 m, RPM: 179.64, Speed: 18.81 m/s
+0.6060000061988831 0.6060000061988831 1.1449999809265137 1.656999945640564
+Inside playing
+playing
+enetered here 0
+enetered here 1
+1
+[INFO] [1737200533.414756]: Distance to Goal: 3.64 m, RPM: 181.86, Speed: 19.04 m/s
+0.6039999723434448 0.6039999723434448 1.1399999856948853 1.684499979019165
+Inside playing
+playing
+enetered here 1
+enetered here 2
+2
+[INFO] [1737200533.514590]: Distance to Goal: 3.68 m, RPM: 184.07, Speed: 19.28 m/s
+0.2694999873638153 0.6079999804496765 1.2660000324249268 0.2694999873638153
+Inside playing
+playing
+[INFO] [1737200533.614442]: Distance to Goal: 3.71 m, RPM: 185.54, Speed: 19.43 m/s
+min() arg is an empty sequence
+[INFO] [1737200533.714592]: Distance to Goal: 3.73 m, RPM: 186.53, Speed: 19.53 m/s
+[INFO] [1737200533.814893]: Distance to Goal: 3.75 m, RPM: 187.55, Speed: 19.64 m/s
+0.6240000128746033 0.6240000128746033 1.440999984741211 1.6644999980926514
+enetered here 0
+enetered here 1
+1
+[INFO] [1737200533.914670]: Distance to Goal: 3.77 m, RPM: 188.58, Speed: 19.75 m/s
+0.628000020980835 0.628000020980835 1.5839999914169312 1.6464999914169312
+enetered here 1
+enetered here 2
+2
+[INFO] [1737200534.014759]: Distance to Goal: 3.78 m, RPM: 188.75, Speed: 19.77 m/s
+0.6290000081062317 0.6290000081062317 1.3949999809265137 1.659500002861023
+enetered here 2
+enetered here 3
+3
+[INFO] [1737200534.114761]: Distance to Goal: 3.80 m, RPM: 190.24, Speed: 19.92 m/s
+0.628000020980835 0.628000020980835 1.4279999732971191 1.6510000228881836
+enetered here 3
+enetered here 4
+4
+[INFO] [1737200534.214565]: Distance to Goal: 3.85 m, RPM: 192.52, Speed: 20.16 m/s
+0.6290000081062317 0.6290000081062317 1.440999984741211 1.6390000581741333
+enetered here 4
+enetered here 5
+5
+[INFO] [1737200534.314538]: Distance to Goal: 3.90 m, RPM: 195.07, Speed: 20.43 m/s
+[INFO] [1737200534.414501]: Distance to Goal: 3.95 m, RPM: 197.62, Speed: 20.70 m/s
+0.6309999823570251 0.6309999823570251 1.4459999799728394 1.656499981880188
+enetered here 5
+enetered here 6
+6
+[INFO] [1737200534.514689]: Distance to Goal: 4.00 m, RPM: 200.00, Speed: 20.94 m/s
+0.6330000162124634 0.6330000162124634 1.4140000343322754 1.6334999799728394
+enetered here 6
+enetered here 7
+7
+[INFO] [1737200534.614749]: Distance to Goal: 4.06 m, RPM: 200.00, Speed: 20.94 m/s
+0.6349999904632568 0.6349999904632568 1.4299999475479126 1.6399999856948853
+enetered here 7
+enetered here 8
+8
+[INFO] [1737200534.714450]: Distance to Goal: 4.11 m, RPM: 200.00, Speed: 20.94 m/s
+0.6389999985694885 0.6389999985694885 1.4839999675750732 1.6510000228881836
+enetered here 8
+enetered here 9
+9
+[INFO] [1737200534.814819]: Distance to Goal: 4.16 m, RPM: 200.00, Speed: 20.94 m/s
+0.6430000066757202 0.6430000066757202 1.4759999513626099 1.6390000581741333
+enetered here 9
+enetered here 10
+10
+[INFO] [1737200534.914706]: Distance to Goal: 4.21 m, RPM: 200.00, Speed: 20.94 m/s
+[INFO] [1737200535.014761]: Distance to Goal: 4.25 m, RPM: 200.00, Speed: 20.94 m/s
+0.6449999809265137 0.6449999809265137 1.503999948501587 1.6059999465942383
+enetered here 10
+enetered here 11
+11
+[INFO] [1737200535.114637]: Distance to Goal: 4.30 m, RPM: 200.00, Speed: 20.94 m/s
+0.6480000019073486 0.6480000019073486 1.503999948501587 1.6419999599456787
+enetered here 11
+enetered here 12
+12
+[INFO] [1737200535.214478]: Distance to Goal: 4.35 m, RPM: 200.00, Speed: 20.94 m/s
+0.6510000228881836 0.6510000228881836 1.5149999856948853 1.6484999656677246
+enetered here 12
+enetered here 13
+13
+[INFO] [1737200535.314812]: Distance to Goal: 4.39 m, RPM: 200.00, Speed: 20.94 m/s
+0.652999997138977 0.652999997138977 1.5210000276565552 1.622499942779541
+enetered here 13
+enetered here 14
+14
+[INFO] [1737200535.414580]: Distance to Goal: 4.44 m, RPM: 200.00, Speed: 20.94 m/s
+min() arg is an empty sequence
+[INFO] [1737200535.514623]: Distance to Goal: 4.49 m, RPM: 200.00, Speed: 20.94 m/s
+[INFO] [1737200535.614744]: Distance to Goal: 4.54 m, RPM: 200.00, Speed: 20.94 m/s
+min() arg is an empty sequence
+[INFO] [1737200535.714493]: Distance to Goal: 4.59 m, RPM: 200.00, Speed: 20.94 m/s
+min() arg is an empty sequence
+[INFO] [1737200535.814739]: Distance to Goal: 4.63 m, RPM: 200.00, Speed: 20.94 m/s
+0.6679999828338623 0.6679999828338623 1.6399999856948853 1.627500057220459
+enetered here 14
+enetered here 15
+15
+[INFO] [1737200535.914790]: Distance to Goal: 4.67 m, RPM: 200.00, Speed: 20.94 m/s
+0.671999990940094 0.671999990940094 1.6480000019073486 1.6154999732971191
+enetered here 15
+enetered here 16
+16
+[INFO] [1737200536.014692]: Distance to Goal: 4.72 m, RPM: 200.00, Speed: 20.94 m/s
+0.6759999990463257 0.6759999990463257 1.6360000371932983 1.6154999732971191
+enetered here 16
+enetered here 17
+17
+[INFO] [1737200536.115226]: Distance to Goal: 4.77 m, RPM: 200.00, Speed: 20.94 m/s
+[INFO] [1737200536.214765]: Distance to Goal: 4.82 m, RPM: 200.00, Speed: 20.94 m/s
+0.6790000200271606 0.6790000200271606 1.7050000429153442 1.6054999828338623
+enetered here 17
+enetered here 18
+18
+[INFO] [1737200536.314636]: Distance to Goal: 4.87 m, RPM: 200.00, Speed: 20.94 m/s
+0.6840000152587891 0.6840000152587891 1.687000036239624 1.6074999570846558
+enetered here 18
+enetered here 19
+19
+[INFO] [1737200536.414574]: Distance to Goal: 4.91 m, RPM: 200.00, Speed: 20.94 m/s
+0.6869999766349792 0.6869999766349792 1.6890000104904175 1.5994999408721924
+enetered here 19
+enetered here 20
+20
+no obstacle
+[INFO] [1737200536.515216]: Distance to Goal: 4.96 m, RPM: 200.00, Speed: 20.94 m/s
+0.6899999976158142 0.6899999976158142 1.7489999532699585 1.5844999551773071
+enetered here 0
+enetered here 1
+1
+[INFO] [1737200536.614869]: Distance to Goal: 5.00 m, RPM: 200.00, Speed: 20.94 m/s
+0.6949999928474426 0.6949999928474426 1.7100000381469727 1.5865000486373901
+enetered here 1
+enetered here 2
+2
+[INFO] [1737200536.714820]: Distance to Goal: 5.05 m, RPM: 200.00, Speed: 20.94 m/s
+^Z
+[1]+  Stopped                 python3 21st.py
+ubuntu@ubuntu:~/robot5_ws/src/Nox_robot/nox$ 
+
+
