@@ -1,0 +1,11 @@
+INFO:root:Logs are cleared
+INFO:root:Internet connection successfull
+INFO:root:Local IP : 192.168.0.127
+INFO:root:network public IP :103.242.155.73
+INFO:root:check value :4
+ERROR:root:No module named 'rospy'
+INFO:root:Waiting for 10 seconds
+ERROR:root:No module named 'rospy'
+INFO:root:Waiting for 10 seconds
+ERROR:root:No module named 'rospy'
+INFO:root:Waiting for 10 seconds

@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/ak_ws/install
+
+Name: nox
+Description: Description of nox
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

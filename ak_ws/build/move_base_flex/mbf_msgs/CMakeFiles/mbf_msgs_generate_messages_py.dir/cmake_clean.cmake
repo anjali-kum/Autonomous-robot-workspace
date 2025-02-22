@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_ExePathAction.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_ExePathActionFeedback.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_ExePathActionGoal.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_ExePathActionResult.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_ExePathFeedback.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_ExePathGoal.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_ExePathResult.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_GetPathAction.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_GetPathActionFeedback.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_GetPathActionGoal.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_GetPathActionResult.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_GetPathFeedback.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_GetPathGoal.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_GetPathResult.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_MoveBaseAction.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_MoveBaseActionFeedback.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_MoveBaseActionGoal.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_MoveBaseActionResult.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_MoveBaseFeedback.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_MoveBaseGoal.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_MoveBaseResult.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_RecoveryAction.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_RecoveryActionFeedback.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_RecoveryActionGoal.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_RecoveryActionResult.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_RecoveryFeedback.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_RecoveryGoal.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_RecoveryResult.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/__init__.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/srv/_CheckPath.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/srv/_CheckPoint.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/srv/_CheckPose.py"
+  "/home/ubuntu/ak_ws/devel/lib/python3/dist-packages/mbf_msgs/srv/__init__.py"
+  "CMakeFiles/mbf_msgs_generate_messages_py"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/mbf_msgs_generate_messages_py.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

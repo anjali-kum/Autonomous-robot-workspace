@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/ak_ws/devel
+
+Name: auto_clear_costmap
+Description: Description of auto_clear_costmap
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/ak_ws/install
+
+Name: speed_odom
+Description: Description of speed_odom
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

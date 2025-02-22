@@ -1,0 +1,2 @@
+set(turtlebot3_deliver_service_MESSAGE_FILES "/home/ubuntu/ak_ws/src/turtlebot3_deliver/turtlebot3_deliver_service/msg/PadOrder.msg;/home/ubuntu/ak_ws/src/turtlebot3_deliver/turtlebot3_deliver_service/msg/AvailableItemList.msg;/home/ubuntu/ak_ws/src/turtlebot3_deliver/turtlebot3_deliver_service/msg/ServiceStatus.msg")
+set(turtlebot3_deliver_service_SERVICE_FILES "/home/ubuntu/ak_ws/src/turtlebot3_deliver/turtlebot3_deliver_service/srv/InitTurtlebotPose.srv")
